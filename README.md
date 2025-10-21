@@ -1,6 +1,6 @@
 ## Hi! I’m Mai Truong
 
-I'm an aspiring data analyst based in Finland 🇫🇮
+I'm an aspiring data analyst based in Finland <img src="https://flagcdn.com/w20/fi.png" width="20" alt="Finland flag" />
 
 I specialize in data cleaning, querying, analysis, and visualization to drive business insights. On my journey into data, I love how it enables informed decisions and real business impact.
 
