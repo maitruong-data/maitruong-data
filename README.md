@@ -6,6 +6,11 @@ I specialize in data cleaning, querying, analysis, and visualization to drive bu
 
 I’m tech-savvy, proactive, independent, and I thrive in fast-paced environments.
 
-**Tech stack:** SQL · Power BI · Qlik Sense · Excel · Python (Pandas, Matplotlib)
+**Tech stack:** 
+- SQL: MySQL, PostgreSQL, BigQuery
+- Power BI: Power Query, DAX, Data Modeling
+- Qlik Sense
+- Python: Pandas, Matplotlib
+- Excel
 
 **Let's connect!**
