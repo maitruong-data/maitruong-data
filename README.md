@@ -14,3 +14,11 @@ I’m tech-savvy, proactive, independent, and I thrive in fast-paced environment
 - Excel
 
 **Let's connect!**
+
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:YOURGMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+
+
+
+
+
