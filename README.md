@@ -5,13 +5,17 @@
 
 # 👋 Hi, I'm Mai Truong
 
-**Data Analyst** based in Finland 🇫🇮 — turning raw data into clear insights and practical recommendations.
+**Data Analyst** based in Finland 🇫🇮. SQL, Python, and Power BI — with a lot of curiosity about why the numbers look the way they do.
+
+---
 
 ## ✨ About Me
 
-I specialize in data cleaning, querying, analysis, and visualization to drive business insights. I bring hands-on analytics skills to turn raw data into clear reporting and practical recommendations, combined with 3+ years of experience in a metrics-driven SaaS environment — partnering with stakeholders to translate business needs into measurable outcomes.
+I clean, query, analyze, and visualize data, mostly because I like knowing why a number looks the way it does, not just what it says.
 
-I'm tech-savvy, proactive, and independent, and I enjoy finding the "why" behind the numbers. I come from a background in Education and EdTech and am now pivoting fully into Data Analytics.
+Before analytics, I spent 3+ years in a metrics-driven SaaS environment working directly with stakeholders, turning vague asks into numbers people could actually use. I got into data through a background in Education and EdTech, and I'm now pivoting into analytics full-time.
+
+---
 
 ## 🛠️ Tech & Tools
 
@@ -28,6 +32,8 @@ I'm tech-savvy, proactive, and independent, and I enjoy finding the "why" behind
     <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
 
+---
+
 ## 🚀 My Projects
 
 ### 🗄️ SQL
@@ -38,15 +44,21 @@ Analyzed 230K+ retail sales, inventory, and operations records in SQL/BigQuery t
 **[E-commerce Web Performance & Customer Purchasing Behaviour Analysis](https://github.com/maitruong-data/Ecommerce-Web-Performance-Customer-Purchasing-Behaviour-Analysis-SQL-BigQuery)**
 Analyzed 500K+ e-commerce logs to detect conversion drop-offs, assess traffic source performance, and find cross-sell opportunities.
 
+<p align="center"><sub>─────────────────────────────────────────────────────</sub></p>
+
 ### 🐍 Python
 
 **[Transaction & Payment Analysis for E-Wallet Company](https://github.com/maitruong-data/Transaction-Payment-Analysis-for-E-Wallet-Company-Python)**
 Analyzed 1.3M+ e-wallet transactions to uncover transaction patterns, classify transaction types, and flag refund and data-quality issues.
 
+<p align="center"><sub>─────────────────────────────────────────────────────</sub></p>
+
 ### 🤖 Machine Learning
 
 **[E-commerce Churn Prediction (Supervised & Unsupervised Learning)](https://github.com/maitruong-data/ECommerce-Churn-Prediction-Supervised-Unsupervised-Learning)**
 Predicted customer churn with a fine-tuned Random Forest (0.938 balanced accuracy) and explored churned-user segmentation to support targeted retention campaigns.
+
+<p align="center"><sub>─────────────────────────────────────────────────────</sub></p>
 
 ### 📊 Power BI
 
@@ -56,13 +68,27 @@ Analyzed 10K+ records from marketing campaigns and sales orders to evaluate camp
 **[Sales Performance & Market Expansion for Global Superstore](https://github.com/maitruong-data/Sales-Performance-and-Market-Expansion-for-Global-Superstore-PowerBI)**
 Analyzed 52K+ global retail records to uncover market growth, product priorities, and profit opportunities for better expansion decisions.
 
+<p align="center"><sub>─────────────────────────────────────────────────────</sub></p>
+
 ### 🔄 End-to-End Projects
 
 **[E-commerce Analytics Pipeline](https://github.com/maitruong-data/ecommerce-analytics-pipeline)**
 Analyzed 6M+ records from 5 data sources (Shopify, WooCommerce, Sapo, banking, and marketing) to evaluate customer behavior, cashflow health, and payment risk — end-to-end Python ETL (GCS → BigQuery).
 
+---
+
+## 🚧 Work In Progress
+
+**Sansaino Marketing Data Pipeline** — building a pipeline to centralize and structure sansaino's marketing data for reporting and analysis.
+
+---
+
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/truong-mai)
-
+<p>
+  <a href="mailto:truongmain171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/truong-mai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+</sub>
+</
 </p>
