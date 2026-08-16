@@ -71,7 +71,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 *5,630 users · scikit-learn · supervised + unsupervised learning*<br>
 **Built for:** retention/CRM managers deciding who to target with retention offers, and customer support managers prioritizing response to at-risk complaints.
 - **Question:** Which customers are likely to churn, and can churned users be grouped into segments for more targeted retention?
-- **Approach:** Trained and tuned a Random Forest classifier (GridSearchCV) for churn prediction, then applied PCA and K-Means to explore segmentation among churned users.
+- **Approach:** Trained and tuned a Random Forest classifier (GridSearchCV), reaching 0.938 balanced accuracy on churn prediction, then applied PCA and K-Means to explore segmentation among churned users.
 - **Recommendation:** Prioritize retention efforts on new customers and fast complaint response; treat the inconclusive clustering as a data gap to close, not a finished segmentation.
 
 ────────────────────
@@ -83,7 +83,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 **Built for:** marketing managers reallocating campaign budget toward profitable channels, and product/merchandising managers deciding which SKUs to push.
 - **Question:** Is marketing budget going to the campaigns and products that actually generate profit, not just revenue?
 - **Approach:** Modeled a 4-table star schema to separate ads-driven from direct revenue and calculate Gross Margin ROAS by campaign, product, and channel.
-- **Recommendation:** Reallocate budget from high-spend, unprofitable campaigns toward under-funded, higher-margin ones.
+- **Recommendation:** Found an overall Gross Margin ROAS of just 0.9 despite ~60% of revenue being ad-driven; reallocate budget from high-spend, unprofitable campaigns toward under-funded, higher-margin ones.
 
 **[Sales Performance & Market Expansion for Global Superstore](https://github.com/maitruong-data/Sales-Performance-and-Market-Expansion-for-Global-Superstore-PowerBI)**<br>
 *52K+ records · 3-table star schema*<br>
@@ -101,7 +101,8 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 **Built for:** marketing, finance, and risk managers deciding who to target for reactivation, how to report collections accurately, and where payment risk concentrates.
 - **Question:** Which customer segments are most valuable or at risk, how much revenue is actually collected, and where is payment risk concentrated?
 - **Approach:** Built an OOP Python ETL pipeline (extractor/transformer/loader pattern) moving 5 raw sources from GCS into a BigQuery warehouse and reporting layer, then built 3 Power BI dashboards on top.
-- **Recommendation:** Fixed a payment-status bug that was counting Buy Now, Pay Later deposits and refunds as unpaid, correcting the collection rate from 40.87% to 59.11% and giving Finance a more accurate read on the business.
+- **Result:** Found a payment-status bug that was treating Buy Now, Pay Later deposits and refunds as unpaid, undercounting collections; correcting it raised the reported collection rate from 40.87% to 59.11%. Also found that At Risk customers have a higher average order value than Loyal customers, the opposite of what the segment name implies.
+- **Recommendation:** Align Finance reporting to the corrected payment-status logic going forward, and prioritize At Risk customers, not just new signups, for reactivation campaigns given their demonstrated spend.
 
 ---
 
