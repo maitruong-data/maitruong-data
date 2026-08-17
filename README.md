@@ -1,6 +1,6 @@
-<!-- Banner placeholder, replace this image with your own custom banner once ready -->
+<!-- Animated banner -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Mai+Truong" alt="Banner placeholder" width="100%">
+  <img src="https://raw.githubusercontent.com/maitruong-data/maitruong-data/main/sansaino_banner_v2.gif" alt="Mai Truong banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Mai Truong
