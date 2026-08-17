@@ -36,6 +36,17 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 
 ## 🚀 My Projects
 
+### 🔄 End-to-End Projects
+
+**[E-Commerce Analytics Pipeline -- TechStore Vietnam](https://github.com/maitruong-data/ecommerce-analytics-pipeline)**<br>
+*~6M rows · 9 sources (Shopify, Sapo POS, Lazada/Shopee, payment gateways, bank) · Python ETL → BigQuery → Power BI*<br>
+**Built for:** marketing, finance, and risk managers deciding who to retain, how to read collection performance accurately, and where overdue receivables concentrate.
+- **Question:** Which customer segments are most valuable or closest to churning, how much revenue is genuinely being collected, and where is payment risk concentrated?
+- **Approach:** Built an OOP Python ETL pipeline (abstract base classes with 9 source-specific subclasses) moving raw data from Google Cloud Storage into a BigQuery warehouse and reporting layer, then built 3 Power BI dashboards on top.
+- **Key findings:** 81K registered customers have never purchased -- run a reactivation campaign before spending on new acquisition. At Risk customers outspend Loyal ones, so a personalised win-back based on last product purchased will outperform broad promotions. With 87.5% of outstanding receivables overdue past 30 days, standard reminders have already failed -- the business needs a two-stage escalation and a collections review for anything beyond 60 days. High-risk balances dropped 99% between May and December 2025; finding what drove that and making it standard process is the most actionable thing Finance can do right now.
+
+────────────────────
+
 ### 🗄️ SQL
 
 **[Retail Sales & Inventory Performance Analysis](https://github.com/maitruong-data/Retail-Sales-Inventory-Performance-Analysis-SQL-BigQuery)**<br>
@@ -92,18 +103,6 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 - **Approach:** Built a star schema linking orders, returns, and sales-rep data, then used Pareto analysis to isolate the ~20% of products driving 80% of profit per market.
 - **Recommendation:** Focus core growth investment on APAC, EU, and US; pilot expansion in EMEA, Africa, and Canada; apply category-specific bundling and margin-protection tactics.
 
-────────────────────
-
-### 🔄 End-to-End Projects
-
-**[E-commerce Analytics Pipeline](https://github.com/maitruong-data/ecommerce-analytics-pipeline)**<br>
-*~6M rows · 5 data sources · Python ETL → BigQuery → Power BI*<br>
-**Built for:** marketing, finance, and risk managers deciding who to target for reactivation, how to report collections accurately, and where payment risk concentrates.
-- **Question:** Which customer segments are most valuable or at risk, how much revenue is actually collected, and where is payment risk concentrated?
-- **Approach:** Built an OOP Python ETL pipeline (extractor/transformer/loader pattern) moving 5 raw sources from GCS into a BigQuery warehouse and reporting layer, then built 3 Power BI dashboards on top.
-- **Result:** Found a payment-status bug that was treating Buy Now, Pay Later deposits and refunds as unpaid, undercounting collections; correcting it raised the reported collection rate from 40.87% to 59.11%. Also found that At Risk customers have a higher average order value than Loyal customers, the opposite of what the segment name implies.
-- **Recommendation:** Align Finance reporting to the corrected payment-status logic going forward, and prioritize At Risk customers, not just new signups, for reactivation campaigns given their demonstrated spend.
-
 ---
 
 ## 🚧 Work In Progress
@@ -119,3 +118,4 @@ Building a pipeline to centralize and structure sansaino's marketing data for re
   <a href="mailto:truongmain171@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/truong-mai"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
