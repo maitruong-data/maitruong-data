@@ -13,7 +13,7 @@ SQL, Python, and Power BI, with a lot of curiosity about why the numbers look th
 
 ## ✨ About Me
 
-I clean, query, analyze, and visualize data, mostly because I like knowing why a number looks the way it does, not just what it says.
+I clean, query, analyze, and visualize data for insights and actions. I like knowing why a number looks the way it does, not just what it says.
 
 Before analytics, I spent 3+ years in a metrics-driven SaaS environment working directly with stakeholders, turning vague asks into solutions people could actually use. I got into data through a background in Education and EdTech, and I'm now pivoting into analytics full-time.
 
