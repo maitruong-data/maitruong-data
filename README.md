@@ -39,7 +39,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 ## 🚀 My Projects
 
 <p>
-  <a href="#end-to-end"><img src="https://img.shields.io/badge/End--to--End_Projects-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="End" /></a>
+  <a href="#end-to-end"><img src="https://img.shields.io/badge/End--to--End_Projects-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="End-to-End Projects" /></a>
   <a href="#sql"><img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
   <a href="#python"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#machine-learning"><img src="https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" /></a>
@@ -48,7 +48,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 
 <a id="end-to-end"></a>
 
-### <img src="https://img.shields.io/badge/End--to--End_Projects-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="End" height="40" />
+### <img src="https://img.shields.io/badge/End--to--End_Projects-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="End-to-End Projects" height="40" />
 
 **[E-Commerce Analytics Pipeline -- TechStore Vietnam](https://github.com/maitruong-data/ecommerce-analytics-pipeline)**<br>
 *~6M rows · 9 sources (Shopify, Sapo POS, Lazada/Shopee, payment gateways, bank) · Python ETL → BigQuery → Power BI*<br>
