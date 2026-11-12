@@ -24,13 +24,13 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 <p>
   <img src="https://img.shields.io/badge/%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
   <img src="https://img.shields.io/badge/%20-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" title="BigQuery" />
-  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" />
+  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" title="Power BI" />
   <img src="https://img.shields.io/badge/%20-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" title="Qlik Sense" />
   <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
   <img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" />
   <img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" title="Jupyter" />
   <img src="https://img.shields.io/badge/%20-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" title="scikit-learn" />
-  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel" />
+  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTQgNGg0bDQgNiA0LTZoNGwtNiA4IDYgOGgtNGwtNC02LTQgNkg0bDYtOHoiIGZpbGw9IiNmZmYiLz48L3N2Zz4%3D" alt="Excel" title="Excel" />
   <img src="https://img.shields.io/badge/%20-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" title="Matplotlib" />
 </p>
 
@@ -101,7 +101,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 
 <a id="power-bi"></a>
 
-### <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" height="40" />
+### <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI0LjUiIGhlaWdodD0iOSIgcng9IjEiIGZpbGw9IiMwMDAiLz48cmVjdCB4PSI5Ljc1IiB5PSI3IiB3aWR0aD0iNC41IiBoZWlnaHQ9IjE0IiByeD0iMSIgZmlsbD0iIzAwMCIvPjxyZWN0IHg9IjE2LjUiIHk9IjIiIHdpZHRoPSI0LjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjMDAwIi8%2BPC9zdmc%2B" alt="Power BI" height="40" />
 
 **[Airline Delay & Cancellation Analysis](https://github.com/maitruong-data/Airline-Delay-and-Cancellation-Analysis-Power-BI)**<br>
 *5.8M flight records · star schema (1 fact + 7 dimension tables)*<br>
