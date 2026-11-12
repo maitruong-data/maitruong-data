@@ -23,7 +23,7 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 
 - **Databases & SQL:** PostgreSQL, BigQuery
 - **Analysis & Modeling:** Python, Pandas, scikit-learn, Jupyter, Excel
-- **Visualization & BI:** Power BI, Qlik Sense, Matplotlib
+- **Visualization & BI:** Power BI, Matplotlib
 
 ---
 
