@@ -22,16 +22,16 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 ## 🛠️ Tech & Tools
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Qlik%20Sense-009845?style=for-the-badge&logo=qlik&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://img.shields.io/badge/%20-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" title="BigQuery" />
+  <img src="https://img.shields.io/badge/%20-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" title="Power BI" />
+  <img src="https://img.shields.io/badge/%20-009845?style=for-the-badge&logo=qlik&logoColor=white" alt="Qlik Sense" title="Qlik Sense" />
+  <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" title="Python" />
+  <img src="https://img.shields.io/badge/%20-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" title="Pandas" />
+  <img src="https://img.shields.io/badge/%20-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" title="Jupyter" />
+  <img src="https://img.shields.io/badge/%20-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" title="scikit-learn" />
+  <img src="https://img.shields.io/badge/%20-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" title="Excel" />
+  <img src="https://img.shields.io/badge/%20-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" title="Matplotlib" />
 </p>
 
 ---
