@@ -91,6 +91,13 @@ Before analytics, I spent 3+ years in a metrics-driven SaaS environment working 
 
 ### 📊 Power BI
 
+**[Airline Delay & Cancellation Analysis](https://github.com/maitruong-data/Airline-Delay-and-Cancellation-Analysis-Power-BI)**<br>
+*5.8M flight records · star schema (1 fact + 7 dimension tables)*<br>
+**Built for:** airline operations and schedule planning teams deciding where to add buffer time, which delays to fix in-house, and which to raise with airports and air traffic control.
+- **Question:** What causes flight delays and cancellations, and how much of it can an airline control?
+- **Approach:** Cleaned 5.8M flight records in Power Query, modeled a star schema, and built a multi-page dashboard (overview, airline, airport, route map) where every insight leads to a recommendation.
+- **Recommendation:** 72% of delay minutes come from airline-controlled causes, mainly late incoming aircraft, so adding buffer to aircraft rotations in peak months targets most of the delay. Weather causes over half of cancellations (48.85K of 89.88K), so rebooking and crew plans should be agreed before winter at the hardest-hit airports. Regional airlines' 05-07 flights run longest (up to 93 min), so review their first flights of the day.
+
 **[Fashion Marketing & Sales Analysis](https://github.com/maitruong-data/Fashion-Marketing-and-Sales-Analysis-Power-BI)**<br>
 *10K+ records · 4-table star schema*<br>
 **Built for:** marketing managers reallocating campaign budget toward profitable channels, and product/merchandising managers deciding which SKUs to push.
